@@ -21,4 +21,4 @@ end
 def square_root(num)
 
 end
-6+2
+(division(840,7))
